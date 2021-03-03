@@ -22,7 +22,7 @@ I am 23 years old, won school programming olympiads on Pascal. Now I am studying
 * Figma, Adobe Photoshop
 
 ### My code:
-```
+```python
 # coding: utf-8
 
 from horoscope import generate_prophecies
