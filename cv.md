@@ -15,4 +15,5 @@
 * Core JavaScript / ES6
 * BEM, Sass. WebPack
 * React, Redux, Express, MongoDB, Node.js
+* Agile, Scrum
 * Figma, Adobe Photoshop
