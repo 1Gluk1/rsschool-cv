@@ -5,3 +5,6 @@
 * Email : gorbachovanton@yandex.ru
 * Phone : +7-(996)-938-23-89
 * _Location :_ _Russia, Tomsk_
+
+#### Desired position
+* Junior full-stack (MERN) devoloper
