@@ -25,3 +25,6 @@
 * EPAM - Computer Science Basic
 * Odin project - Full-stack JS devoloper
 * Way of the Samurai - React/Redux
+
+### Languages:
+* English (B1)
