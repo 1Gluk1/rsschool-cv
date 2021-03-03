@@ -21,6 +21,10 @@ I am 23 years old, won school programming olympiads on Pascal. Now I am studying
 * Agile, Scrum
 * Figma, Adobe Photoshop
 
+### My projects:
+[Productly](https://1gluk1.github.io/productly) : Адаптивно свёрстанный макет
+[Cuba](https://1gluk1.github.io/Cuba-Cadillac) : Адаптивно свёрстанный макет
+
 ### My code:
 ```python
 # coding: utf-8
