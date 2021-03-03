@@ -1,4 +1,5 @@
 # Anton Gorbachev
+
 ### Contacts:
 * [GitHub](https://github.com/1Gluk1) : 1Gluk1
 * [VKontakte](https://vk.com/evol_way) : evol_way
@@ -8,3 +9,10 @@
 
 #### Desired position
 * Junior full-stack (MERN) devoloper
+
+### Skills:
+* HTML/HTML5, CSS/CSS3
+* Core JavaScript / ES6
+* BEM, Sass. WebPack
+* React, Redux, Express, MongoDB, Node.js
+* Figma, Adobe Photoshop
