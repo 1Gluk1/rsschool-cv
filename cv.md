@@ -20,3 +20,8 @@
 
 ### Education:
 * TSU Faculty of Physics and Technology, Department of Mahatronics and Robotics - 3 course.
+
+### Courses:
+* EPAM - Computer Science Basic
+* Odin project - Full-stack JS devoloper
+* Way of the Samurai - React/Redux
