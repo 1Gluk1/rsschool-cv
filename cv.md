@@ -11,7 +11,7 @@
 * Junior full-stack (MERN) devoloper
 
 ### About me
-I am 23 years old, won school olympiads on programming in Pascal, I know mathematics and physics very well. Now I am studying Full-Stack development with great interest, I want to learn how to make useful web applications for people.
+I am 23 years old, won school programming olympiads on Pascal. Now I am studying Full-Stack development with great interest, I want to learn how to make useful web applications for people.
 
 ### Skills:
 * HTML/HTML5, CSS/CSS3
