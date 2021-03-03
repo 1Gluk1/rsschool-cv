@@ -17,3 +17,6 @@
 * React, Redux, Express, MongoDB, Node.js
 * Agile, Scrum
 * Figma, Adobe Photoshop
+
+### Education:
+* TSU Faculty of Physics and Technology, Department of Mahatronics and Robotics - 3 course.
