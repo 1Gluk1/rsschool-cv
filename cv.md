@@ -22,9 +22,9 @@ I am 23 years old, won school programming olympiads on Pascal. Now I am studying
 * Figma, Adobe Photoshop
 
 ### My projects:
-[Productly : Адаптивно свёрстанный макет](https://1gluk1.github.io/productly)
-[Cuba : Адаптивно свёрстанный макет](https://1gluk1.github.io/Cuba-Cadillac)
- 
+* [Productly : Адаптивно свёрстанный макет](https://1gluk1.github.io/productly)
+* [Cuba : Адаптивно свёрстанный макет](https://1gluk1.github.io/Cuba-Cadillac)
+
 ### My code:
 ```python
 # coding: utf-8
