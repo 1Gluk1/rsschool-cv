@@ -39,7 +39,7 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 
-/* page-container */
+/* page-containers */
 
 .container-page {
   height: 100%;
@@ -55,6 +55,8 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 .cv {
   padding: 0 10px;
 }
+
+/* header */
 
 .header__inner {
   display: flex;
@@ -95,6 +97,8 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 .photo__img {
   width: 200px;
 }
+
+/* main-page */
 
 .cv {
   padding-top: 20px;
@@ -140,6 +144,8 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
   margin-bottom: 5px;
 }
 
+/* footer */
+
 .footer {
   display: flex;
   justify-content: space-around;
@@ -161,3 +167,4 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 .footer_rss-time, .footer_social-link {
   font-size: 18px;
 }
+
